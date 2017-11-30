@@ -1,0 +1,14 @@
+- alias: tu-linkshare
+  host: aftp.linksynergy.com
+  username: theurge1
+  password: TVSar123
+  path: ""
+- alias: simon
+  host: ftp.simon.com
+  username: mallops
+  password: '!$Zf5%'
+- alias: cj-urge
+  host: datatransfer.cj.com
+  username: '4945749'
+  password: '5#gGSiTU'
+  path: '/outgoing/productcatalog/204767/'
